@@ -1,0 +1,19 @@
+---
+title: "Week One"
+author: "Sadat"
+categories: [Week one]
+---
+
+# Introduction
+
+This a *simple* file.
+
+```{r}
+print("This works!")
+```
+
+```{r, eval=FALSE}
+
+print("This works!")
+
+```

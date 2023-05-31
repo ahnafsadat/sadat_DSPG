@@ -1,0 +1,14 @@
+{
+  "hash": "8722bed2ffcb944b26cd70acd0ce39c7",
+  "result": {
+    "markdown": "---\ntitle: \"Week One\"\nauthor: \"Sadat\"\ncategories: [Week one]\n---\n\n\n# Introduction\n\nThis a *simple* file.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(\"This works!\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"This works!\"\n```\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(\"This works!\")\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
